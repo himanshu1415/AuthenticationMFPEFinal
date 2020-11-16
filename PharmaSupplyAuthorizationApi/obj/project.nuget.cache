@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n6+3fyMaRPBOX/d03NP5x2S36x+NyEVmOSUWI9h7N0uyVrh60Kaoz66FlrOMuzd/42CTRElCsGOlXSW1AQTVWg==",
+  "dgSpecHash": "clNjvXiqXVIFYcfaLbGrENQlhG1DKBhHGjFfBa39ZEmXZxzMAxKpR9UiMvpVoHzsR+tHS77iIBywxiNxJ8XKUw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj",
+  "projectFilePath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C8BDzib81DwP7Fr/jaE3B53wyOr03nUqb9xwDimNxkCz1UaGMxi1Dh2q4rkW8Pn3mMI6u7D+J40DPNuNKi2Q/g==",
+  "dgSpecHash": "tJDXwhxLMDBM51UOKjyHB5d2oxqsYcD++PcjyehhNtohiQh83nBCK/rhnIIVENa15Eh43SvGgQxLYJLaU2wW3g==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\AuthApiUnitTest\\AuthApiUnitTest.csproj",
+  "projectFilePath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\AuthApiUnitTest\\AuthApiUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",

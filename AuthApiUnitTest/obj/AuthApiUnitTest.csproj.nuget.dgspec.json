@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Cognizant MFRP\\Medicine-master\\AuthApiUnitTest\\AuthApiUnitTest.csproj": {}
+    "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\AuthApiUnitTest\\AuthApiUnitTest.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Cognizant MFRP\\Medicine-master\\AuthApiUnitTest\\AuthApiUnitTest.csproj": {
+    "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\AuthApiUnitTest\\AuthApiUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\AuthApiUnitTest\\AuthApiUnitTest.csproj",
+        "projectUniqueName": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\AuthApiUnitTest\\AuthApiUnitTest.csproj",
         "projectName": "AuthApiUnitTest",
-        "projectPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\AuthApiUnitTest\\AuthApiUnitTest.csproj",
+        "projectPath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\AuthApiUnitTest\\AuthApiUnitTest.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\AuthApiUnitTest\\obj\\",
+        "outputPath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\AuthApiUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj": {
-                "projectPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj"
+              "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj": {
+                "projectPath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj": {
+    "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj",
+        "projectUniqueName": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj",
         "projectName": "PharmaSupplyAuthorizationApi",
-        "projectPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj",
+        "projectPath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\PharmaSupplyAuthorizationApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Cognizant MFRP\\Medicine-master\\PharmaSupplyAuthorizationApi\\obj\\",
+        "outputPath": "D:\\Projects\\Cognizant MFRP\\Auth Cloud Deploy\\PharmaSupplyAuthorizationApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
